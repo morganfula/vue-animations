@@ -64,7 +64,7 @@ button:active {
   height: 8rem;
   background-color: #290033;
   margin-bottom: 2rem;
-  transition: 0.6s transform ease-in-out;
+  transition: 0.3s transform ease-in-out;
 }
 .container {
   max-width: 40rem;
